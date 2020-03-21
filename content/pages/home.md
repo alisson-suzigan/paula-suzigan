@@ -11,7 +11,7 @@ meta:
 
 paula-suzigan is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/paula-suzigan-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/paula-suzigan/blob/master/README.md).
+View the [project overview](https://thriveweb.com.au/the-lab/paula-suzigan-gatsby-react-js-starter-project/) and the [docs](https://github.com/alisson-suzigan/paula-suzigan/blob/master/README.md).
 
 # Features
 
@@ -28,4 +28,4 @@ View the [project overview](https://thriveweb.com.au/the-lab/paula-suzigan-gatsb
 
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/paula-suzigan&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alisson-suzigan/paula-suzigan&stack=cms)
