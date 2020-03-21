@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Contatos
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: This is the contact page subtitle.
+subtitle: \--------------------------------
 address: Test
 phone: 11 98469 4444
 email: paula@gmail.com
