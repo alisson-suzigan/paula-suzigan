@@ -2,9 +2,8 @@
 template: ContactPage
 slug: contact
 title: Contatos
+subtitle: \-----------------------------
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: \------------------------------
-address: Test
 phone: 11 98469 4444
 email: paula@gmail.com
 locations:
@@ -15,6 +14,7 @@ meta:
   description: Aqui você encontra os contatos de Paula Suzigan.
   title: Contatos de de Paula Suzigan
   noindex: false
+address: Test
 ---
 
 # Example contact form
